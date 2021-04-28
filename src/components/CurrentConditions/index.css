@@ -1,0 +1,12 @@
+#current-conditions-container {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center; }
+  #current-conditions-container #get-new-measures-btn {
+    border-radius: 10px;
+    padding: 5% 10%;
+    background-color: #39fcbb;
+    color: #fff;
+    border: 1px solid #aaa; }
+
+/*# sourceMappingURL=index.css.map */

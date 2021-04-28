@@ -1,0 +1,13 @@
+#current-conditions-container {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+
+    #get-new-measures-btn {
+        border-radius: 10px;
+        padding: 5% 10%;
+        background-color: rgb(57, 252, 187);
+        color: #fff;
+        border: 1px solid #aaa;
+    }
+}

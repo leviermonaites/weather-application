@@ -1,0 +1,12 @@
+#weather-statistics-container {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center; }
+  #weather-statistics-container #get-weather-statistics-btn {
+    border-radius: 25px;
+    padding: 5% 10%;
+    background-color: #39fcbb;
+    border: 1px solid #aaa;
+    color: #fff; }
+
+/*# sourceMappingURL=index.css.map */

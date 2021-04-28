@@ -1,0 +1,23 @@
+#home-page {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  margin: auto;
+  width: 100%;
+  flex-direction: column;
+  align-items: center; }
+  #home-page #applications-options {
+    width: 80%;
+    display: flex;
+    justify-content: space-around; }
+    #home-page #applications-options .application-option {
+      width: 48%;
+      text-align: center;
+      border-radius: 20px;
+      color: #fff;
+      cursor: pointer; }
+      #home-page #applications-options .application-option:nth-child(1) {
+        background-color: #5ecfa0; }
+      #home-page #applications-options .application-option:nth-child(2) {
+        background-color: #5eabcf; }
+
+/*# sourceMappingURL=index.css.map */
